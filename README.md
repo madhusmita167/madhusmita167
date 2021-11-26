@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madhusmita167
 - 👀 I’m interested in coding
-- 🌱 I’m currenarning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently persuing B tech in GIETU
+- 💞️ I’m looking to collaborate on Web DEV
 - 📫 How to reach me ...
 
 <!---
